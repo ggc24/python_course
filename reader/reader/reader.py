@@ -20,4 +20,3 @@ class Reader:
     def read(self):
         return self.f.read()
 
-
