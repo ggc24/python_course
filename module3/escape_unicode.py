@@ -9,4 +9,3 @@ def escape_unicode(f):
 def northern_city():
     return 'Trmsø'
 
-print(northern_city())
