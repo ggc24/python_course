@@ -25,7 +25,7 @@ class SortedList(SimpleList):
         self.sort()
 
     def add(self, item):
-        self.add(item)
+        super().add(item)
         self.sort()
 
     def __repr__(self):
